@@ -1,5 +1,5 @@
 # Tic_Tac_Toe
-This is a game Tic-Tac-Toe.
+This is a game Tic-Tac-Toe.\n
 To run the game, go to project directory and type in cmd "gradle --console plain run".
 Enter the coordinates into the console. The first digit is responsible for the column, the second digit for the row.
 Coordinates of table are shown below:
